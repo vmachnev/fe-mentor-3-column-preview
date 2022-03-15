@@ -125,6 +125,7 @@ suvs section styles
 
 .suvs__description {
   font-size: 15px;
+  line-height: 1.7;
   color: var(--color-neutral-white);
   opacity: .8;
   margin-bottom: 25px;
@@ -175,6 +176,7 @@ luxury section styles
 
 .luxury__description {
   font-size: 15px;
+  line-height: 1.7;
   color: var(--color-neutral-white);
   opacity: .8;
   margin-bottom: 25px;
@@ -212,7 +214,6 @@ desktop styles
   }
 
   .sedans {
-    padding: 40px 70px;
     border-radius: 10px 0 0 10px;
   }
 
