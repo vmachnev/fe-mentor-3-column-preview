@@ -10,8 +10,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/nft-card-solution-a8hsB2IJY)
-- Live Site URL: (https://www.frontendmentor.io/solutions/3column-preview-card-component-solution-R_9r3Fosn)
+- Solution URL: (https://www.frontendmentor.io/solutions/3column-preview-card-component-solution-R_9r3Fosn)
+- Live Site URL: (https://fe-mentor-3-column-preview.netlify.app)
 
 ## My process
 
